@@ -1,0 +1,41 @@
+body{
+	
+	background-image: url(images/brush.png); 
+	background-repeat: no-repeat;
+	background-color: black;
+	
+	
+
+}
+#myTogglerNav {
+	background-color: #940CE8;
+}
+.navbarColor{
+	background-color: #940CE8;
+}
+.row{color: #ccc}
+
+h1{
+	font-family: 'Nosifer', cursive;
+
+	color: #940CE8;
+	background-color: #000;
+	margin: 30px 30px;
+	padding: 20px 20px;
+}
+h2{
+	color: gray;
+	font-style: italic; 
+	padding: 30px 5px 5px 5px;
+}
+p,body{
+	font-family: 'Voces', cursive;
+	
+
+}
+p{
+	padding: 10px 10px;
+}
+h3{
+	background-color: black;
+}
